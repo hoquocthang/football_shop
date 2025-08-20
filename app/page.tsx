@@ -4,6 +4,7 @@ import CollectionSection from "@/components/collection-section"
 import CustomDesignSection from "@/components/custom-design-section"
 import AboutSection from "@/components/about-section"
 import Footer from "@/components/footer"
+import ZaloFloatingButton from "@/components/zaloFloating"
 import RevealOnScroll from "@/components/reveal-on-scroll"
 
 
@@ -25,6 +26,8 @@ export default function Home() {
       <RevealOnScroll>
         <AboutSection />
       </RevealOnScroll>
+
+      <ZaloFloatingButton />
 
       <Footer />
     </main>

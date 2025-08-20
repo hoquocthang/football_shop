@@ -54,15 +54,18 @@ export default function CustomDesignSection() {
               ))}
             </div>
 
-            <Button size="lg" className="bg-primary text-primary-foreground hover:bg-primary/90">
-              Bắt đầu thiết kế
-            </Button>
+            <a href="https://zalo.me/0377436238" target="_blank" rel="noopener noreferrer">
+              <Button size="lg" className="bg-primary text-primary-foreground hover:bg-primary/90">
+                Bắt đầu thiết kế
+              </Button>
+            </a>
+
           </div>
 
           {/* Right Image */}
           <div className="relative">
             <img
-              src="https://res.cloudinary.com/dmcqu0oz3/image/upload/v1755588926/t%E1%BA%A1o_cho_t%C3%B4i_m%E1%BB%99t_h%C3%ACnh_%E1%BA%A3nh_v%E1%BB%81_shop_b%C3%A1n_qu%E1%BA%A7n_%C3%A1o_%C4%91%C3%A1_b%C3%B3ng_c%C3%B3_lo_go_Ch%C3%A2mCh%C3%A2m_Shop_v%E1%BB%9Bi_4_ti%C3%AAu_ch%C3%AD___Thi%E1%BA%BFt_k%E1%BA%BF_t%E1%BB%B1_do_Cho_%C4%91%E1%BB%99i_b%C3%B3ng_Ch%E1%BA%A5t_l%C6%B0%E1%BB%A3ng_cao_Giao_h%C3%A0ng_nhanh_ph%E1%BA%A3i_th%E1%BB%83_hi%E1%BB%87n_l%C3%AAn_%E1%BA%A3nh_cslog4.jpg"
+              src="https://res.cloudinary.com/dmcqu0oz3/image/upload/v1755602631/z6923448335632_101ec37a45d5d565a576e870b4c2d9ff_bejizz.jpg"
               alt="Thiết kế áo bóng đá"
               className="w-full h-auto rounded-lg shadow-lg"
             />

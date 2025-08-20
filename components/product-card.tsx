@@ -31,12 +31,15 @@ export default function ProductCard({ name, price, image, originalPrice }: Produ
         </div>
       </CardContent>
 
-      <CardFooter className="p-4 pt-0">
-        <Button className="w-full bg-primary text-primary-foreground hover:bg-primary/90">
-          <ShoppingCart className="mr-2 h-4 w-4" />
-          Thêm vào giỏ
-        </Button>
+      <CardFooter className="p-4 pt-0 flex justify-center">
+        <a href="https://zalo.me/0377436238" className="w-full">
+          <Button className="w-full bg-primary text-primary-foreground hover:bg-primary/90">
+            <ShoppingCart className="mr-2 h-4 w-4" />
+            Liên hệ ngay
+          </Button>
+        </a>
       </CardFooter>
+
     </Card>
   )
 }

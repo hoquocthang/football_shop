@@ -35,10 +35,10 @@ export default function AboutSection() {
 
           {/* Right Content */}
           <div>
-            <h2 className="text-3xl md:text-4xl font-bold text-secondary-foreground mb-6">Về CHAMCHAM</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-secondary-foreground mb-6">Về Mei Sports</h2>
 
             <p className="text-lg text-secondary-foreground/90 mb-8">
-              CHAMCHAM được sinh ra từ tình yêu bóng đá và mong muốn mang đến cho cộng đồng những sản phẩm áo đấu chất
+              Mei Sports được sinh ra từ tình yêu bóng đá và mong muốn mang đến cho cộng đồng những sản phẩm áo đấu chất
               lượng cao với thiết kế độc đáo. Chúng tôi hiểu rằng mỗi chiếc áo không chỉ là trang phục mà còn là biểu
               tượng của tinh thần đội nhóm.
             </p>

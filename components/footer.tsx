@@ -18,7 +18,7 @@ export default function Footer() {
                           className="mr-2"
                         />
                         <h1 className="text-2xl font-bold text-foreground font-script">
-                          CHAMCHAM
+                          Mei Sports
                         </h1>
             
                       </div>
@@ -70,22 +70,22 @@ export default function Footer() {
             <div className="space-y-3">
               <div className="flex items-center gap-3">
                 <Phone className="h-4 w-4 text-primary" />
-                <span className="text-card-foreground/80">0123 456 789</span>
+                <span className="text-card-foreground/80">0377 436 238</span>
               </div>
               <div className="flex items-center gap-3">
                 <Mail className="h-4 w-4 text-primary" />
-                <span className="text-card-foreground/80">info@jerseyvn.com</span>
+                <span className="text-card-foreground/80">meisports@gmail.com</span>
               </div>
               <div className="flex items-center gap-3">
                 <MapPin className="h-4 w-4 text-primary" />
-                <span className="text-card-foreground/80">Hà Nội, Việt Nam</span>
+                <span className="text-card-foreground/80">Tp Hồ Chí Minh, Việt Nam</span>
               </div>
             </div>
           </div>
         </div>
 
         <div className="border-t border-card-foreground/20 mt-8 pt-8 text-center">
-          <p className="text-card-foreground/60">© 2024 JerseyVN. Tất cả quyền được bảo lưu.</p>
+          <p className="text-card-foreground/60">© 2024 Mei Sports. Tất cả quyền được bảo lưu.</p>
         </div>
       </div>
     </footer>
