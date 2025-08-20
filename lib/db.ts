@@ -15,7 +15,7 @@ const pool = new Pool({
 });
 
 // Hàm chạy truy vấn SQL
-export const query = async (text: string, params?: any[]) => {
+export const query = async (text: string, params: unknown[]) => {
   const client = await pool.connect();
   try {
     const result = await client.query(text, params);
